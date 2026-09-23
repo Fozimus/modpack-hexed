@@ -1,22 +1,13 @@
-filename = 'miehex-fabric-1.20.1+1.0.2fix#2.jar'
-name = 'MieHex'
-side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'fabric-1.20.1+1.0.2fix2'
+name = "MieHex"
+filename = "miehex-fabric-1.20.1+1.0.2fix#2.jar"
+side = "both"
 
 [download]
-hash = '62433664a7674a55cb4d479210a95fd72689f0ffa4df6363107c79559bc95e4df9c54fbf65bfd8b89a59043bfdfbc264f8d314bae5bb49fdba6c3b5387cf41d0'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/pzEVNdoK/versions/4poG0O1g/miehex-fabric-1.20.1%2B1.0.2fix%232.jar'
+url = "https://cdn.modrinth.com/data/pzEVNdoK/versions/4poG0O1g/miehex-fabric-1.20.1%2B1.0.2fix%232.jar"
+hash-format = "sha512"
+hash = "62433664a7674a55cb4d479210a95fd72689f0ffa4df6363107c79559bc95e4df9c54fbf65bfd8b89a59043bfdfbc264f8d314bae5bb49fdba6c3b5387cf41d0"
 
+[update]
 [update.modrinth]
-mod-id = 'pzEVNdoK'
-version = '4poG0O1g'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'nTW3yKrm'
-type = 'REQUIRED'
-version = 'O6xIFHAg'
+mod-id = "pzEVNdoK"
+version = "4poG0O1g"

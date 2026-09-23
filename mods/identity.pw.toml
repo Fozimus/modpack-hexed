@@ -1,21 +1,13 @@
-filename = 'identity-2.7.1-1.20.1-fabric.jar'
-name = 'Identity'
-side = ''
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'identity-2.7.1-1.20.1-fabric.jar'
+name = "Identity"
+filename = "identity-2.7.1-1.20.1-fabric.jar"
+side = "both"
 
 [download]
-hash = '469cf3bfc9473f8db2ac6fdb4546a52ad7c8a3f5'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "469cf3bfc9473f8db2ac6fdb4546a52ad7c8a3f5"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 4687497
 project-id = 391390
-
-[[x-prismlauncher-dependencies]]
-addonId = '419699'
-type = 'REQUIRED'

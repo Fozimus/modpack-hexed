@@ -1,16 +1,13 @@
-filename = 'chatcalc-3.0.24b.jar'
-name = 'Chat Calc'
-side = 'client'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Chat Calc"
+filename = "chatcalc-3.0.24b.jar"
+side = "client"
 
 [download]
-hash = '598afa89159cd27c67e8276883e73579c5a93d858dfebdd528966391d4bc5c20e992bb2bf493ed947b43e665703bce679d595b6959f53ebe7d198a5aaf0c26ca'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/a7X986Fs/versions/jSQCAoBb/chatcalc-3.0.24b.jar'
+url = "https://cdn.modrinth.com/data/a7X986Fs/versions/jSQCAoBb/chatcalc-3.0.24b.jar"
+hash-format = "sha512"
+hash = "598afa89159cd27c67e8276883e73579c5a93d858dfebdd528966391d4bc5c20e992bb2bf493ed947b43e665703bce679d595b6959f53ebe7d198a5aaf0c26ca"
 
+[update]
 [update.modrinth]
-mod-id = 'a7X986Fs'
-version = 'jSQCAoBb'
+mod-id = "a7X986Fs"
+version = "jSQCAoBb"

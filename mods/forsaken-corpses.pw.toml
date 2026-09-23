@@ -1,21 +1,13 @@
-filename = 'forsaken_corpses_1.2.0_1.20.1.jar'
-name = 'Forsaken Corpses'
-side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.2.0_1.20.1'
+name = "Forsaken Corpses"
+filename = "forsaken_corpses_1.2.0_1.20.1.jar"
+side = "both"
 
 [download]
-hash = '28ec90647d03b2be41c775d5fe41307377a568220376cfb7b22863a6e50b0a304fdb071f390045b9977745c5b2445cfd472b643ac2290735b3dfbb6933f8bb90'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/5gDY48LT/versions/vRYYx1Lg/forsaken_corpses_1.2.0_1.20.1.jar'
+url = "https://cdn.modrinth.com/data/5gDY48LT/versions/vRYYx1Lg/forsaken_corpses_1.2.0_1.20.1.jar"
+hash-format = "sha512"
+hash = "28ec90647d03b2be41c775d5fe41307377a568220376cfb7b22863a6e50b0a304fdb071f390045b9977745c5b2445cfd472b643ac2290735b3dfbb6933f8bb90"
 
+[update]
 [update.modrinth]
-mod-id = '5gDY48LT'
-version = 'vRYYx1Lg'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
-type = 'REQUIRED'
+mod-id = "5gDY48LT"
+version = "vRYYx1Lg"

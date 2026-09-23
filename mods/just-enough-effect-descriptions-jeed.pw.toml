@@ -1,37 +1,13 @@
-filename = 'jeed-1.20-2.2.6-fabric.jar'
-name = 'Just Enough Effects Descriptions'
-side = ''
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.20-2.2.6'
+name = "Just Enough Effect Descriptions (JEED)"
+filename = "jeed-1.20-2.2.6-fabric.jar"
+side = "client"
 
 [download]
-hash = '999f7c6968016f5d2350018620eb6a756f7d8f492944877f33e69e55001e923ec8f346d1531dd516ad785d8cb6025ec6572fd0fdd3475652dfeaf27e687be792'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/EO27GKs1/versions/kRjsKEYr/jeed-1.20-2.2.6-fabric.jar'
+url = "https://cdn.modrinth.com/data/EO27GKs1/versions/kRjsKEYr/jeed-1.20-2.2.6-fabric.jar"
+hash-format = "sha512"
+hash = "999f7c6968016f5d2350018620eb6a756f7d8f492944877f33e69e55001e923ec8f346d1531dd516ad785d8cb6025ec6572fd0fdd3475652dfeaf27e687be792"
 
+[update]
 [update.modrinth]
-mod-id = 'EO27GKs1'
-version = 'kRjsKEYr'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'u6dRKJwZ'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'onDuQF5e'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'fRiHVvU7'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'nfn13YXA'
-type = 'OPTIONAL'
+mod-id = "EO27GKs1"
+version = "kRjsKEYr"

@@ -1,16 +1,13 @@
-filename = 'findme-3.2.3-fabric.jar'
-name = 'FindMe'
-side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'beta'
+name = "FindMe"
+filename = "findme-3.2.3-fabric.jar"
+side = "both"
 
 [download]
-hash = '1fea0515d1190e16fd367e2e4971a274e7b7efbe6c592ff3f6d6b5be018fb6db3cba9802b18241eff932d954eaea5fd8ac8d6f13322c1a03b7335dbfb2727131'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/rEuzehyH/versions/3yVHZGuH/findme-3.2.3-fabric.jar'
+url = "https://cdn.modrinth.com/data/rEuzehyH/versions/3yVHZGuH/findme-3.2.3-fabric.jar"
+hash-format = "sha512"
+hash = "1fea0515d1190e16fd367e2e4971a274e7b7efbe6c592ff3f6d6b5be018fb6db3cba9802b18241eff932d954eaea5fd8ac8d6f13322c1a03b7335dbfb2727131"
 
+[update]
 [update.modrinth]
-mod-id = 'rEuzehyH'
-version = '3yVHZGuH'
+mod-id = "rEuzehyH"
+version = "3yVHZGuH"

@@ -1,21 +1,13 @@
-filename = 'fusion-1.3.15a-fabric-mc1.20.1.jar'
-name = 'Fusion'
-side = ''
-x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.3.15a-fabric-mc1.20.1'
+name = "Fusion (Connected Textures)"
+filename = "fusion-1.3.15a-fabric-mc1.20.1.jar"
+side = "client"
 
 [download]
-hash = '436d7adde45a262dbe0453d8a4fd1c95aaeb01426eb2d4ffe2392af37539699ad881c877860ae5f39d002144cb5f12fbdc4c80f61bc85ce69f3a813dc01e7e23'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/p19vrgc2/versions/7uJg5VV6/fusion-1.3.15a-fabric-mc1.20.1.jar'
+url = "https://cdn.modrinth.com/data/p19vrgc2/versions/7uJg5VV6/fusion-1.3.15a-fabric-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "436d7adde45a262dbe0453d8a4fd1c95aaeb01426eb2d4ffe2392af37539699ad881c877860ae5f39d002144cb5f12fbdc4c80f61bc85ce69f3a813dc01e7e23"
 
+[update]
 [update.modrinth]
-mod-id = 'p19vrgc2'
-version = '7uJg5VV6'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
-type = 'REQUIRED'
+mod-id = "p19vrgc2"
+version = "7uJg5VV6"

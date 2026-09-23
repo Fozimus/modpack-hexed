@@ -1,41 +1,13 @@
-filename = 'hexthings-fabric-0.2.0+1.20.1.jar'
-name = 'HexThings'
-side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '0.2.0+1.20.1'
+name = "HexThings"
+filename = "hexthings-fabric-0.2.0+1.20.1.jar"
+side = "both"
 
 [download]
-hash = '7c0f65228ba09e106772aa1b1ea3cc2fb18621c76c6d8292b89ad0237f0c161ef0d20da2575ae28e0d88b9c70c0b65437b4feb2cf4e28435592bc22df4ddc624'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/uRBPvIjK/versions/uITeUl6U/hexthings-fabric-0.2.0%2B1.20.1.jar'
+url = "https://cdn.modrinth.com/data/uRBPvIjK/versions/uITeUl6U/hexthings-fabric-0.2.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "7c0f65228ba09e106772aa1b1ea3cc2fb18621c76c6d8292b89ad0237f0c161ef0d20da2575ae28e0d88b9c70c0b65437b4feb2cf4e28435592bc22df4ddc624"
 
+[update]
 [update.modrinth]
-mod-id = 'uRBPvIjK'
-version = 'uITeUl6U'
-
-[[x-prismlauncher-dependencies]]
-addonId = '9s6osm5g'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'lhGA9TYQ'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'mOgUt4GM'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'nTW3yKrm'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'Ha28R6CL'
-type = 'REQUIRED'
+mod-id = "uRBPvIjK"
+version = "uITeUl6U"
