@@ -1901,11 +1901,6 @@ hash = "5944ed5a779d142aea9ccd8c466a20fa3d9233a29f2be1e5ae54fc15f5edd57e"
 metafile = true
 
 [[files]]
-file = "mods/cupboard.pw.toml"
-hash = "56e8f1135aa5ab37b34b5040457499a78adedf84d8a0542315a51c29cf54f0dc"
-metafile = true
-
-[[files]]
 file = "mods/dcch.pw.toml"
 hash = "8bb42e10b9186eab74b247c4c5b44d43b5f75c930fccca1b9ed1de508e18218d"
 metafile = true
@@ -2410,16 +2405,6 @@ hash = "f0302803c0685ab563b11e93b7bda534681b8c1a7b67dd0431e18c9df645bf9d"
 metafile = true
 
 [[files]]
-file = "mods/loot-integrations-dungeons-and-taverns.pw.toml"
-hash = "f5dc95c198efff68de224f6ca60b1a5ef1f89af97d4fbac3dab57bec84af339d"
-metafile = true
-
-[[files]]
-file = "mods/loot-integrations.pw.toml"
-hash = "2b8558c98a77d2aadd14be4ac745f38bbe941663922aaf8cd179fd6bcc003a5b"
-metafile = true
-
-[[files]]
 file = "mods/lootr.pw.toml"
 hash = "bc91fa90e9f26f3ff3690c1a508647a162cd63dc36d815b8af0d6f5e01e5ecbf"
 metafile = true
@@ -2842,11 +2827,6 @@ metafile = true
 [[files]]
 file = "mods/yigd.pw.toml"
 hash = "fc1d7a1ee1bb2d4906b2686d105c82b67297e8a8376bd3882fea0fdb7e6499eb"
-metafile = true
-
-[[files]]
-file = "mods/yung-structures-addon-for-loot-integrations.pw.toml"
-hash = "c55a7700633fe3bf1e490aad3166bad5381902822ad8bc86c74663603698e036"
 metafile = true
 
 [[files]]
