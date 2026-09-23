@@ -1,16 +1,13 @@
-filename = 'libIPN-fabric-1.20-4.0.2.jar'
-name = 'libIPN'
-side = 'both'
-x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "libIPN"
+filename = "libIPN-fabric-1.20-4.0.2.jar"
+side = "client"
 
 [download]
-hash = 'c8c4d93037efb226b6bd3264e33df4c010cb111b'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+url = "https://cdn.modrinth.com/data/onSQdWhM/versions/Uygzs3iI/libIPN-fabric-1.20-4.0.2.jar"
+hash-format = "sha512"
+hash = "34961bc3a172115b6747248305b484f3cb8d26c4b41994bb8b5759359f817df0c3c73725b8bbaeb15c59c8798a13321ed9875282dbe9a1b81606f381b532a8cd"
 
-[update.curseforge]
-file-id = 5208506
-project-id = 679177
+[update]
+[update.modrinth]
+mod-id = "onSQdWhM"
+version = "Uygzs3iI"

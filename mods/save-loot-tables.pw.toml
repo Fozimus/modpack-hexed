@@ -1,16 +1,13 @@
-filename = 'saveloottables-fabric-1.0.1.2.jar'
-name = 'Save Loot Tables'
-side = 'server'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Save Loot Tables"
+filename = "saveloottables-fabric-1.0.1.2.jar"
+side = "both"
 
 [download]
-hash = 'f3b3bd1cc7d0f50231c55d18773e4d04f1d84c6f324d59efedc736d03bfbd2a5ce577fbb9558fbc2b75f0018f7f79320698cc4eb7ffe8bab1ad70f9761137daf'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/uWdzDOrP/versions/ewEzpuc3/saveloottables-fabric-1.0.1.2.jar'
+url = "https://cdn.modrinth.com/data/uWdzDOrP/versions/ewEzpuc3/saveloottables-fabric-1.0.1.2.jar"
+hash-format = "sha512"
+hash = "f3b3bd1cc7d0f50231c55d18773e4d04f1d84c6f324d59efedc736d03bfbd2a5ce577fbb9558fbc2b75f0018f7f79320698cc4eb7ffe8bab1ad70f9761137daf"
 
+[update]
 [update.modrinth]
-mod-id = 'uWdzDOrP'
-version = 'ewEzpuc3'
+mod-id = "uWdzDOrP"
+version = "ewEzpuc3"
