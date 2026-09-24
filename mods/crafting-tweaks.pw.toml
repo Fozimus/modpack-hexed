@@ -1,0 +1,21 @@
+filename = 'craftingtweaks-fabric-1.20.1-18.2.9.jar'
+name = 'Crafting Tweaks'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '18.2.9+fabric-1.20.1'
+
+[download]
+hash = 'cbc949740c09d18d6674b4e1c998ed4a97e47e8c141ed17afe79617d404d03288732ba6510be7a50e40256607137aee45e9cfba2f108e13d9a30a32e43da6dab'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DMu0oBKf/versions/GFnEjWqp/craftingtweaks-fabric-1.20.1-18.2.9.jar'
+
+[update.modrinth]
+mod-id = 'DMu0oBKf'
+version = 'GFnEjWqp'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'MBAkmtvl'
+type = 'REQUIRED'

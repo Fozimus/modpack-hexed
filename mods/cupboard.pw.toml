@@ -1,0 +1,18 @@
+filename = 'cupboard-fabric-1.20.1-4.2.jar'
+name = 'Cupboard'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'cupboard-fabric-1.20.1-4.2.jar'
+
+[download]
+hash = '6ffc17ebb5bde11f5cacb571e52bc8ac4bbcb0f2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8888918
+project-id = 326652

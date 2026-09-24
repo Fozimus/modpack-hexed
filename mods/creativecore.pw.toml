@@ -1,0 +1,21 @@
+filename = 'CreativeCore_FABRIC_v2.12.39_mc1.20.1.jar'
+name = 'CreativeCore'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.12.39'
+
+[download]
+hash = '2368a12742ef1f1b1a033c6c6f68a953e0b9b0a2ca5d0cb092cd901be411edcbcd9a9c323d07b34957b208cefdb1670aacd31bdde2e522c8aca7cb7dc51c103c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/OsZiaDHq/versions/XdbR4wAI/CreativeCore_FABRIC_v2.12.39_mc1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'OsZiaDHq'
+version = 'XdbR4wAI'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

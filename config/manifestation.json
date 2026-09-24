@@ -1,0 +1,23 @@
+{
+  "menuOpenLoopWindowMs": 1400,
+  "menuOpenLoopTriggerCount": 3,
+  "intentRelayMaxRangeBlocks": -1,
+  "intentRelayCooldownTicks": 4,
+  "intentRelayStepTriggerEnabled": true,
+  "portalLiveViewEnabled": true,
+  "portalLiveViewCols": 48,
+  "portalLiveViewRows": 72,
+  "portalLiveViewDistanceBlocks": 48,
+  "menuDispatchRefillPerSecond": 12.0,
+  "menuDispatchBurstTokens": 36.0,
+  "menuDispatchViolationDecayMs": 15000,
+  "menuDispatchBaseCooldownMs": 500,
+  "menuDispatchMaxCooldownMs": 8000,
+  "splinterCasterEnabled": true,
+  "splinterMaxActivePerOwner": -1,
+  "splinterPerformancePreset": "safe",
+  "splinterUseExternalizedForEachFrame": true,
+  "splinterAdvanced": {
+    "enabled": false
+  }
+}

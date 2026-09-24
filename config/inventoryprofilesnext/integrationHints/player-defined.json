@@ -1,0 +1,94 @@
+{
+    "net.minecraft.class_476": {
+        "buttonHints": {
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 33
+            },
+            "SORT": {
+                "horizontalOffset": 33
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 33
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 33
+            }
+        }
+    },
+    "net.minecraft.class_492": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": -3,
+                "top": 496
+            },
+            "VILLAGER_DO_LOCAL_TRADES": {
+                "horizontalOffset": -1,
+                "top": 18
+            },
+            "VILLAGER_DO_GLOBAL_TRADES": {
+                "horizontalOffset": -1,
+                "top": 42
+            }
+        }
+    },
+    "com.mrcrayfish.furniture.refurbished.client.gui.screen.ElectricityGeneratorScreen": {
+        "ignore": true
+    },
+    "com.mrcrayfish.furniture.refurbished.client.gui.screen.WorkbenchScreen": {
+        "ignore": true
+    },
+    "com.mrcrayfish.furniture.refurbished.client.screen.FabricMicrowaveScreen": {
+        "ignore": true
+    },
+    "net.minecraft.class_471": {
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -42
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -30,
+                "bottom": 12
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -18,
+                "bottom": 24
+            }
+        }
+    },
+    "com.mrcrayfish.furniture.refurbished.client.gui.screen.RecyclingBinScreen": {
+        "ignore": true
+    },
+    "com.mrcrayfish.furniture.refurbished.client.screen.FabricStoveScreen": {
+        "ignore": true
+    },
+    "net.minecraft.class_490": {
+        "buttonHints": {
+            "SORT_ROWS": {
+                "bottom": 1
+            }
+        }
+    },
+    "com.tom.storagemod.gui.CraftingTerminalScreen": {
+        "buttonHints": {
+            "SETTINGS": {
+                "top": -1
+            },
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -1,
+                "bottom": 28
+            },
+            "MOVE_TO_PLAYER": {
+                "top": -16
+            },
+            "SORT": {
+                "top": -16
+            },
+            "SORT_COLUMNS": {
+                "top": -16
+            },
+            "SORT_ROWS": {
+                "top": -16
+            }
+        }
+    }
+}

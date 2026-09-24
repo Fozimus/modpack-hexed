@@ -1,0 +1,54 @@
+profile Lucky
+	HOT1
+		"minecraft:netherite_sword"
+	HOT2
+		"minecraft:netherite_pickaxe" -> [ "minecraft:enchantments"("[\"minecraft:mending\",\"minecraft:efficiency\",\"minecraft:unbreaking\",\"minecraft:fortune\"]") ]
+	HOT3
+		"minecraft:netherite_axe"
+	HOT4
+		"minecraft:netherite_shovel"
+	HOT7
+		"minecraft:cooked_mutton"
+		"minecraft:cooked_porkchop"
+		"minecraft:cooked_chicken"
+		"minecraft:cooked_beef"
+		"minecraft:golden_carrot"
+        "minecraft:bread"  
+	HOT8
+		"minecraft:firework_rocket" -> [ "minecraft:fireworks"("{flight_duration:3b}") ]
+	HEAD
+		"minecraft:netherite_helmet"
+	CHEST
+		"minecraft:elytra"
+	LEGS
+		"minecraft:netherite_leggings"
+	FEET
+		"minecraft:netherite_boots"
+
+profile Silky
+	HOT1
+		"minecraft:netherite_sword"
+	HOT2
+		"minecraft:netherite_pickaxe" -> [ "minecraft:enchantments"("[\"minecraft:mending\",\"minecraft:efficiency\",\"minecraft:silk_touch\",\"minecraft:unbreaking\"]") ]
+	HOT3
+		"minecraft:netherite_axe"
+	HOT4
+		"minecraft:netherite_shovel"
+	HOT7
+        "minecraft:cooked_mutton"
+		"minecraft:cooked_porkchop"
+		"minecraft:cooked_chicken"
+		"minecraft:cooked_beef"
+		"minecraft:golden_carrot"
+		"minecraft:bread"
+	HOT8
+		"minecraft:firework_rocket" -> [ "minecraft:fireworks"("{flight_duration:3b}") ]
+	HEAD
+		"minecraft:netherite_helmet"
+	CHEST
+		"minecraft:elytra"
+	LEGS
+		"minecraft:netherite_leggings"
+	FEET
+		"minecraft:netherite_boots"
+

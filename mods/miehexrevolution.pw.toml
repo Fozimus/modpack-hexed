@@ -1,0 +1,22 @@
+filename = 'miehex_revolution-fabric-1.0.3.31+0.11.4-SNAPSHOT.jar'
+name = 'MieHex:Revolution'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.0.3.31+0.11.4-SNAPSHOT'
+
+[download]
+hash = '6e372c690c9e47b19d5dfeebfac3de6793c448ab398137e3cba1e121b531562cd220fe144b69b0cba2d2448213c0f35f3e3a82fa02ed87131cd2df9a2ff43a15'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vmlwjgbu/versions/aN2Ptbb5/miehex_revolution-fabric-1.0.3.31%2B0.11.4-SNAPSHOT.jar'
+
+[update.modrinth]
+mod-id = 'vmlwjgbu'
+version = 'aN2Ptbb5'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nTW3yKrm'
+type = 'REQUIRED'
+version = 'O6xIFHAg'

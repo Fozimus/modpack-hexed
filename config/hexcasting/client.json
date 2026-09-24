@@ -1,0 +1,11 @@
+{
+  "ctrlTogglesOffStrokeOrder": false,
+  "disableInworldScrolling": false,
+  "invertSpellbookScrollDirection": false,
+  "invertAbacusScrollDirection": false,
+  "gridSnapThreshold": 0.5,
+  "clickingTogglesDrawing": false,
+  "alwaysShowListCommas": false,
+  "advancedTooltipsShowsIotaNBT": false,
+  "staticActiveSlates": false
+}

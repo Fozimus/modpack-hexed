@@ -1,0 +1,25 @@
+filename = 'ItemPhysicLite_FABRIC_v1.6.11_mc1.20.1.jar'
+name = 'ItemPhysicLite'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.6.11'
+
+[download]
+hash = '30fca475af0044e457c0f0f0f0e455494c0ee360bbf468344a9ce0870fe6505d6cf506e7af92b29992018b400bf68fe8cc3b58f6b2c404ae412f7bd756337218'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/OuyCgP8t/versions/FzAwhEG5/ItemPhysicLite_FABRIC_v1.6.11_mc1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'OuyCgP8t'
+version = 'FzAwhEG5'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'OsZiaDHq'
+type = 'REQUIRED'

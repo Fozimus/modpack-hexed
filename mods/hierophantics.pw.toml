@@ -1,0 +1,41 @@
+filename = 'hierophantics-fabric-1.4.0.jar'
+name = 'Hierophantics'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.4.0'
+
+[download]
+hash = 'd43b1b10d9bc80b87726f5ab2252be7e5f5e768b48f8ced77c472b9c15e7e932af16f196ce6181adc5c233d5d03bb8901a360d4dfe1cace7129d366acf5a525a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ybwf7iLN/versions/Su9MCaIW/hierophantics-fabric-1.4.0.jar'
+
+[update.modrinth]
+mod-id = 'ybwf7iLN'
+version = 'Su9MCaIW'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'mOgUt4GM'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nTW3yKrm'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Ha28R6CL'
+type = 'REQUIRED'

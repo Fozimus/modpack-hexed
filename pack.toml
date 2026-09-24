@@ -1,0 +1,13 @@
+name = "Hexed"
+author = "Fozimus"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "12803e2d7685879d243cb8a7af4a19e99295ca7451187992e8a915362d6d1ada"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "1.20.1"

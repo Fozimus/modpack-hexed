@@ -1,0 +1,34 @@
+filename = 'amcdelight-1.0.1-fabric+1.20.1.jar'
+name = "Alex's Mobs Continued Delight"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.1+1.20.1-fabric'
+
+[download]
+hash = '410d47fc1de1d465136fcba52b1e3599df1cc0c1a5f891d3ba142403b26da5af9a0abe34595ff4a10f8e2ec374f86b0235ee8867126bed9a62bb9b264f0bd03f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/iY124w4e/versions/1MyVw4y6/amcdelight-1.0.1-fabric%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'iY124w4e'
+version = '1MyVw4y6'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+version = 'xhLT3C5f'
+
+[[x-prismlauncher-dependencies]]
+addonId = '6oyMM4yX'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'kYIaHHfw'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '7vxePowz'
+type = 'REQUIRED'

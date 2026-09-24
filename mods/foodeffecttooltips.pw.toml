@@ -1,0 +1,16 @@
+filename = 'foodeffecttooltips-1.1.1-1.20.0.jar'
+name = 'Food Effect Tooltips [Fabric / NeoForge]'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'caa3aaa43ce1e915e08545dc36f6842535b7ea3a501ea52a62190ed8c814b78b69a83790660fb2f0a333c6b64fbfc96a2393b5eb9eff465cf7b1469e35cb36d5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/GGfyJWnG/versions/aJiMrtqD/foodeffecttooltips-1.1.1-1.20.0.jar'
+
+[update.modrinth]
+mod-id = 'GGfyJWnG'
+version = 'aJiMrtqD'

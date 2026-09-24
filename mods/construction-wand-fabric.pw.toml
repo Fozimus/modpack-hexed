@@ -1,0 +1,21 @@
+filename = 'constructionwand-2.1.3+1.20.1.jar'
+name = 'Construction Wand (Fabric)'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.1.3+1.20.1'
+
+[download]
+hash = '0913124dce570bbf8262921343ac503ab7c98a1724709144fa8fa4f253c3e73d00fc2472957ecce010a97b1104854490d572019367356bef0c5d43628d65a073'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/SdT4Yu5L/versions/N6169rZS/constructionwand-2.1.3%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'SdT4Yu5L'
+version = 'N6169rZS'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

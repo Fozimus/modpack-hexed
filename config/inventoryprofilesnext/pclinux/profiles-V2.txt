@@ -1,0 +1,30 @@
+profile Elytra
+	HOT1
+		"minecraft:diamond_sword"
+		"minecraft:netherite_sword"
+	HOT2
+		"minecraft:diamond_pickaxe"
+		"minecraft:netherite_pickaxe"
+	HOT3
+		"minecraft:diamond_axe"
+		"minecraft:netherite_axe"
+	HOT8
+		"minecraft:firework_rocket" -> [ "minecraft:fireworks"("{flight_duration:3b}") ]
+	HOT7
+		"minecraft:firework_rocket"
+	CHEST
+		"minecraft:elytra" -> [ "minecraft:enchantments"("[\"minecraft:mending\",\"minecraft:unbreaking\"]") ]
+
+profile Chest
+	HOT1
+		"minecraft:diamond_sword"
+		"minecraft:netherite_sword"
+	HOT2
+		"minecraft:diamond_pickaxe"	
+		"minecraft:netherite_pickaxe"
+	HOT3
+		"minecraft:diamond_axe"
+		"minecraft:netherite_axe"
+	CHEST
+		"minecraft:diamond_chestplate"
+		"minecraft:netherite_chestplate"

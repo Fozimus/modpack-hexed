@@ -1,0 +1,21 @@
+filename = 'SimpleCopperPipes-mc1.20.1-2.0.3.jar'
+name = 'Simple Copper Pipes'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'mc1.20.1-2.0.3'
+
+[download]
+hash = '9c5553717f1604e60c966ccaed243c3b4521b3f1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5876592
+project-id = 571336
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

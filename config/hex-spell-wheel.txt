@@ -1,0 +1,26 @@
+Water
+minecraft:water_bucket
+Esplodi zona
+minecraft:fire_charge
+Tp end
+minecraft:end_stone
+Break
+minecraft:iron_pickaxe
+Scavo avanzato
+minecraft:diamond_pickaxe
+Volo area
+minecraft:scaffolding
+Tp casa
+minecraft:gray_bed
+Volo elytra
+minecraft:elytra
+Explode
+minecraft:tnt
+Volo temporaneo
+minecraft:clock
+Light
+minecraft:torch
+Smelt
+minecraft:furnace
+Pokeball
+hex_machina:entity_capsule
