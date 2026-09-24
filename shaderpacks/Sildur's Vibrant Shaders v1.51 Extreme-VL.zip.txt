@@ -1,6 +1,0 @@
-#Mon Sep 21 17:06:06 CEST 2026
-minlight=0.013
-Underwater_Fog=false
-uFogDensity=5.0
-Fog=false
-wFogDensity=10.0
